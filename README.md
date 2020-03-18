@@ -1,12 +1,16 @@
+> ## Repository abandoned
+>
+> This repository has moved to [ministryofjustice/jwt-laminas-auth](https://github.com/ministryofjustice/jwt-laminas-auth).
+
 # Zend Auth JWT module
 
-This module provides authentication storage via JWT 
+This module provides authentication storage via JWT
 
 ## Installation
 
 Composer require ministryofjustice/jwt-zend-auth
 
-Copy jwtzendauth.global.php to your autoload config directory and 
+Copy jwtzendauth.global.php to your autoload config directory and
 change the settings as appropriate.
 
 Enable the module JwtZendAuth in your application config
